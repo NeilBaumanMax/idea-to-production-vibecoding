@@ -1,0 +1,14 @@
+{
+  "name": "idea-to-production-vibecoding",
+  "author": "Neil Bauman / Catnip 薄荷猫",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "references/CONSTRUCTION_DOCS.md",
+    "references/GIT_SAFETY.md",
+    "references/OUTPUT_TEMPLATES.md",
+    "references/QUESTIONNAIRE.md",
+    "references/TESTING_AND_HANDOFF.md",
+    "scripts/bootstrap_construction_docs.py"
+  ]
+}
